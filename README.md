@@ -1,6 +1,6 @@
 # Index Repositories APP
 
-![IndexReposApp](.\assets\indexRepos.png)
+![IndexReposApp](./src/assets/indexRepos.png)
 
 Repositorio en proceso para consultar informacion de mis repositorios de GitHub por medio de la GitHub API usando REACT y Javascript.
 
